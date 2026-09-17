@@ -1,4 +1,4 @@
-# logistic-regression-from-scratch
+# Logistic Regression From Scratch
 
 A NumPy implementation of logistic regression from first principles, including gradient descent and binary classification (extending to multiclass classification in the future).
 
