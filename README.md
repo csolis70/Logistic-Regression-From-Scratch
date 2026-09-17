@@ -12,8 +12,7 @@ This project implements logistic regression without machine learning libraries. 
 - Binary classification
 - Cross-entropy loss
 - Probability predictions
-- Model evaluation
-- Unit tests
+- Elastic net regularization
 
 ## Project Structure
 
@@ -28,3 +27,15 @@ logistic-regression-from-scratch/
 │   └── test_logistic_regression.py
 └── notebooks/
     └── ...
+```
+
+## Planned Extensions
+
+- Add unit tests
+- Add numerical gradient checking
+- Add L2 regularization
+- Extend to multiclass classification
+- Compare against scikit-learn
+- Evaluate model performance on multiple datasets
+- Package the model for reuse
+- Build and deploy an inference API
